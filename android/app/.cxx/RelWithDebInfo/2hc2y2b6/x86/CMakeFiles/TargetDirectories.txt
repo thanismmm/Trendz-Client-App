@@ -1,0 +1,2 @@
+C:/Users/Mohammed_Thanis/Desktop/trendz/Trendz-ClientApp/android/app/.cxx/RelWithDebInfo/2hc2y2b6/x86/CMakeFiles/edit_cache.dir
+C:/Users/Mohammed_Thanis/Desktop/trendz/Trendz-ClientApp/android/app/.cxx/RelWithDebInfo/2hc2y2b6/x86/CMakeFiles/rebuild_cache.dir
