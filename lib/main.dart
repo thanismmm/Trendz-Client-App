@@ -3,7 +3,6 @@ import 'package:provider/provider.dart';
 import 'package:trendz_customer/Pages/splashScreen.dart';
 import 'package:trendz_customer/Providers/theme_provider.dart';
 import 'package:trendz_customer/Providers/user_provider.dart';
-import 'package:trendz_customer/theming/dark_theme.dart';
 import 'package:trendz_customer/theming/light_theme.dart';
 
 void main() {
